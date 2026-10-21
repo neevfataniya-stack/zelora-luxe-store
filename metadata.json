@@ -1,0 +1,6 @@
+{
+  "name": "Glow Jewels - Luxury Jewellery",
+  "description": "Editorial online luxury jewellery destination for earrings, necklaces, bangles, rings, and curated sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
